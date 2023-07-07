@@ -13,3 +13,15 @@ amount_paid = 0.00
 deposit_paid = false
 is_hungry = true
 is_late = false
+
+first_name = "Brian"
+favorite_color = "orange"
+email = "bigbluebear@gmail.com"
+
+puts first_name
+puts favorite_color
+puts age
+puts amount_due
+puts batting_average
+puts deposit_paid
+puts is_hungry
